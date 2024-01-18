@@ -13,3 +13,5 @@ How to Use:
 Run by "python3 SupportListener.py"
 Exit by entering CMD window and pressing "Enter"
 Pressing "Esc" stops recording, but doesn't close out the program.
+
+Creates text file in same root directory as program called "keyboard_log.txt" that contains all keypresses.
